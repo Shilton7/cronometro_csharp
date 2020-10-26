@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\stopwatch_csharp\\stopwatch_csharp.csproj",
+      "projectUniqueName": "D:\\projetosC#\\stopwatch_csharp\\stopwatch_csharp.csproj",
       "projectName": "stopwatch_csharp",
-      "projectPath": "D:\\stopwatch_csharp\\stopwatch_csharp.csproj",
+      "projectPath": "D:\\projetosC#\\stopwatch_csharp\\stopwatch_csharp.csproj",
       "packagesPath": "C:\\Users\\shilton.santiago\\.nuget\\packages\\",
-      "outputPath": "D:\\stopwatch_csharp\\obj\\",
+      "outputPath": "D:\\projetosC#\\stopwatch_csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shilton.santiago\\AppData\\Roaming\\NuGet\\NuGet.Config",

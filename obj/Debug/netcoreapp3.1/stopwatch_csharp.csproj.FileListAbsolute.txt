@@ -1,0 +1,13 @@
+D:\projetosC#\stopwatch_csharp\bin\Debug\netcoreapp3.1\stopwatch_csharp.exe
+D:\projetosC#\stopwatch_csharp\bin\Debug\netcoreapp3.1\stopwatch_csharp.deps.json
+D:\projetosC#\stopwatch_csharp\bin\Debug\netcoreapp3.1\stopwatch_csharp.runtimeconfig.json
+D:\projetosC#\stopwatch_csharp\bin\Debug\netcoreapp3.1\stopwatch_csharp.runtimeconfig.dev.json
+D:\projetosC#\stopwatch_csharp\bin\Debug\netcoreapp3.1\stopwatch_csharp.dll
+D:\projetosC#\stopwatch_csharp\bin\Debug\netcoreapp3.1\stopwatch_csharp.pdb
+D:\projetosC#\stopwatch_csharp\obj\Debug\netcoreapp3.1\stopwatch_csharp.csprojAssemblyReference.cache
+D:\projetosC#\stopwatch_csharp\obj\Debug\netcoreapp3.1\stopwatch_csharp.AssemblyInfoInputs.cache
+D:\projetosC#\stopwatch_csharp\obj\Debug\netcoreapp3.1\stopwatch_csharp.AssemblyInfo.cs
+D:\projetosC#\stopwatch_csharp\obj\Debug\netcoreapp3.1\stopwatch_csharp.csproj.CoreCompileInputs.cache
+D:\projetosC#\stopwatch_csharp\obj\Debug\netcoreapp3.1\stopwatch_csharp.dll
+D:\projetosC#\stopwatch_csharp\obj\Debug\netcoreapp3.1\stopwatch_csharp.pdb
+D:\projetosC#\stopwatch_csharp\obj\Debug\netcoreapp3.1\stopwatch_csharp.genruntimeconfig.cache
